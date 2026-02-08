@@ -1,0 +1,31 @@
+### --- PYTHON STANDARDS --- ###
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+.env
+
+### --- PROJECT SPECIFIC (SECURITY) --- ###
+# PENTING: Jangan upload kunci privat ke GitHub!
+punkhazard-keys/priv.pem
+punkhazard-keys/priv19.pem
+client_keys/*_private.pem
+
+# File identitas dan database lokal (file-based)
+users.txt
+storage/keys/
+storage/messages/*.json
+storage/pdfs/*.pdf
+
+### --- OS & IDE FILES --- ###
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+### --- TOOLS --- ###
+# Jika menggunakan 'uv' seperti di laporan Anda
+.uv/
