@@ -336,3 +336,14 @@ Features successfully demonstrated:
 ```
 
 ```
+
+### 📝 Tim Pengembang & Pembimbing
+Mahasiswa (S1 Sains Data UNESA):
+
+1. Abdullah Al-Firdaus Nuzula (24031554008)
+2. Rizki Piji Fathoni (24031554029)
+3. Dimas Rafi Izzulhaq (24031554084)
+4. Daffa Ahmad Pangreksa (24031554159)
+
+**Dosen Pengampu:**
+Ibnu Febry Kurniawan, S.Kom., M.Sc., Ph.D.
